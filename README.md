@@ -13,7 +13,7 @@ A Python-based security camera system that allows a Raspberry Pi to stream video
 
 ## Installation
 1. Install Dependencies
-On both the **Raspberry Pi (Server) and the Client (Viewer/Recorder), install the required Python packages:
+On both the Raspberry Pi (Server) and the Client (Viewer/Recorder), install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
